@@ -1,0 +1,10 @@
+jquery starting templete
+
+&(document).ready(function(){
+	
+	
+})
+
+
+
+$(selector).event(effect)
